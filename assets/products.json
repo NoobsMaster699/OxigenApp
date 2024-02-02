@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Product 1",
+      "description": "Description of Product 1",
+      "price": 10.99,
+      "image": "assets/images/1.png",
+      "category": "Cappuccino"
+    },
+    {
+      "name": "Product 2",
+      "description": "Description of Product 2",
+      "price": 12.99,
+      "image": "assets/images/2.png",
+      "category": "Machiato"
+    },
+    {
+        "name": "Product 3",
+        "description": "Description of Product 1",
+        "price": 10.99,
+        "image": "assets/images/3.png",
+        "category": "Latte"
+      },
+      {
+        "name": "Product 4",
+        "description": "Description of Product 2",
+        "price": 12.99,
+        "image": "assets/images/4.png",
+        "category": "Americano"
+      },
+      {
+        "name": "Product 6",
+        "description": "Description of Product 2",
+        "price": 12.99,
+        "image": "assets/images/4.png",
+        "category": "Americano"
+      }
+  ]
+  
